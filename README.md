@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on impulsional neural network for my 4A engineering project.<br>🌱 I’m currently learning machine learning
+I'am currently doing an exchange semester in Vietnam for my 5th year 1st semester.<br>🔭 I previously worked on impulsional neural network for my 4th year engineering project.<br>🌱 I’m currently learning machine learning
 
 
 ## 🌐 Socials:
